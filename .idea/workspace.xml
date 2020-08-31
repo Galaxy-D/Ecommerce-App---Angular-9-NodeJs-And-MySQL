@@ -1,16 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="703f0ecb-0b21-49a5-bb5b-2bb37dd428f6" name="Default Changelist" comment="" />
+    <list default="true" id="703f0ecb-0b21-49a5-bb5b-2bb37dd428f6" name="Default Changelist" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/Galaxy-D/Ecommerce-App---Angular-9-NodeJs-And-MySQL" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1gs3ychksS41RaatTRT9r1zFn90" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,11 +60,65 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598889728876</updated>
-      <workItem from="1598889730221" duration="143000" />
+      <workItem from="1598889730221" duration="1181000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1598889976121</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598889976121</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1598890240493</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598890240493</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial commit">
+      <created>1598890348462</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598890348462</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial commit">
+      <created>1598890445152</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1598890445152</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="647" y="133" key="RollbackChangesDialog" timestamp="1598890269909">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="647" y="133" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1598890269909" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1598890658261">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1598890658261" />
   </component>
 </project>
